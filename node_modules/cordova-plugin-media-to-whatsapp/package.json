@@ -1,0 +1,59 @@
+{
+  "_from": "cordova-plugin-media-to-whatsapp",
+  "_id": "cordova-plugin-media-to-whatsapp@1.1.1",
+  "_inBundle": false,
+  "_integrity": "sha512-YTRaNKhPsAAsp6p76Tiiycz0rq1QwxxCj8RhEeLDsQPCdklqERCSZOEZy5IM0g3QsMh4jaiiqtk9lPDhztqsXA==",
+  "_location": "/cordova-plugin-media-to-whatsapp",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "cordova-plugin-media-to-whatsapp",
+    "name": "cordova-plugin-media-to-whatsapp",
+    "escapedName": "cordova-plugin-media-to-whatsapp",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-media-to-whatsapp/-/cordova-plugin-media-to-whatsapp-1.1.1.tgz",
+  "_shasum": "384118ac40a2a18df15d9110ce0d8e41f678843e",
+  "_spec": "cordova-plugin-media-to-whatsapp",
+  "_where": "C:\\Piyushi-workspace\\cordova\\ImageShare",
+  "author": {
+    "name": "AakashRajni"
+  },
+  "bugs": {
+    "url": "https://github.com/aakashrajni/cordova-plugin-media-to-whatsapp/issues"
+  },
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "cordova-plugin-media-to-whatsapp",
+    "platforms": [
+      "android"
+    ]
+  },
+  "deprecated": false,
+  "description": "It gets media from device storage location and share to whatsapp",
+  "homepage": "https://github.com/aakashrajni/cordova-plugin-media-to-whatsapp#readme",
+  "keywords": [
+    "cordova",
+    "Intent",
+    "media",
+    "whatsapp",
+    "tiktok",
+    "url",
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "license": "Apache 2.0",
+  "name": "cordova-plugin-media-to-whatsapp",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aakashrajni/cordova-plugin-media-to-whatsapp.git"
+  },
+  "version": "1.1.1"
+}
