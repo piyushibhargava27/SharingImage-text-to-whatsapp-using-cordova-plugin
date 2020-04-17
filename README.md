@@ -1,6 +1,9 @@
 # SharingImage-text-to-whatsapp-using-cordova-plugin
 You can share image/data to Whatsapp specific to a number or globally using Cordova plugins
 
+Refer to index.html to see the application of plugin.
+
+
 Add plugin  :
   cordova plugin add cordova-plugin-x-socialsharing
   cordova prepare
